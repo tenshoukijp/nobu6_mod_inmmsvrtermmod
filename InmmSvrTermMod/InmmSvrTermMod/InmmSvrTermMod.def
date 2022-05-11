@@ -1,0 +1,5 @@
+LIBRARY "InmmSvrTermMod"
+
+EXPORTS
+    OnInitialize = On_‰Šú‰» @ 1
+    OnFinalize = On_––Šú‰» @ 2
